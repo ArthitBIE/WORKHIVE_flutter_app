@@ -34,12 +34,12 @@ flutter:
   #  - images/a_dot_burr.png
    # - images/a_dot_ham.png
 
-  licenses: # Lists additional license files to be bundled with the app
-    - assets/my_license.txt
+  #  licenses: # Lists additional license files to be bundled with the app
+  #    - assets/my_license.txt
 
   fonts:              # Required if your app uses custom fonts
     - family: inter
       fonts:
-      - asset: workhive_main_app/fonts/Inter-VariableFont.ttf
-      - asset: workhive_main_app/fonts/Inter-Italic-VariableFont.ttf
+      - asset: assets/fonts/Inter-VariableFont.ttf
+      - asset: assets/fonts/Inter-Italic-VariableFont.ttf
         
