@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:workhive/pages/homepage.dart';
+import 'package:workhive/homepage.dart';
 
 void main() {
   runApp(MyApp());

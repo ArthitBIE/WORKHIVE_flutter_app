@@ -40,6 +40,6 @@ flutter:
   fonts:              # Required if your app uses custom fonts
     - family: inter
       fonts:
-      - asset: assets/fonts/Inter-VariableFont.ttf
-      - asset: assets/fonts/Inter-Italic-VariableFont.ttf
+      - asset: /home/atiyut/Documents/GitHub/WORKHIVE_flutter_app/assets/fonts/Inter-VariableFont.ttf
+      - asset: /home/atiyut/Documents/GitHub/WORKHIVE_flutter_app/assets/fonts/Inter-Italic-VariableFont.ttf
         
